@@ -1,0 +1,2 @@
+avatar 120x120
+banner1  690x480
